@@ -6,6 +6,8 @@ pip3 unistall jupyterlab
 
 pip freeze > requirements.txt
 
+(venv) pradeepgiri@halcyon-470 StockMarketPredictor % jupyter lab
+
 to activate venv: 
 source venv/bin/activate
 
